@@ -1,0 +1,23 @@
+GIT
+  remote: https://github.com/akmhmgc/faker.git
+  revision: c822d8d7870095f3e59a5384e0ee59d152b1e911
+  branch: feature1
+  specs:
+    faker (2.22.0)
+      i18n (>= 1.8.11, < 2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.10)
+    i18n (1.11.0)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faker!
+
+BUNDLED WITH
+   1.17.2
